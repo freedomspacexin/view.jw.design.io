@@ -1,8 +1,4 @@
 [		
-	{"id":14,"title":"飘窗-田园风格","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_window_01.jpg"},
-	{"id":15,"title":"飘窗-古典风格","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_02.jpg"},
-	{"id":16,"title":"飘窗-北欧风格","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_03.jpg"},
-	{"id":17,"title":"飘窗-功能型","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_04.jpg"},
-	{"id":18,"title":"飘窗-休闲型","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_05.jpg"},
-	{"id":19,"title":"飘窗-景观型","add_time":"2013-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/home_window_06.jpg"}
+	{"id":25,"title":"雅致-雅致清凉小窝","add_time":"2011-04-16T03:50:28.00Z","sell_price":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_small_08.jpg"},
+	{"id":26,"title":"雅致-轻装修的精采","add_time":"2013-04-16T03:50:28.00Z","sell_price":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/category_small_09.jpg"}
 ]

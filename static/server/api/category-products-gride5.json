@@ -1,8 +1,13 @@
 [		
-	{"id":14,"title":"飘窗-田园风格","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_window_01.jpg"},
-	{"id":15,"title":"飘窗-古典风格","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_02.jpg"},
-	{"id":16,"title":"飘窗-北欧风格","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_03.jpg"},
-	{"id":17,"title":"飘窗-功能型","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_04.jpg"},
-	{"id":18,"title":"飘窗-休闲型","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_05.jpg"},
-	{"id":19,"title":"飘窗-景观型","add_time":"2013-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/home_window_06.jpg"}
+	{"id":91,"title":"简约布艺沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_01.jpg"},
+	{"id":92,"title":"全实木沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_02.jpg"},
+	{"id":93,"title":"客厅布艺沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_03.jpg"},
+	{"id":94,"title":"头层真皮沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_04.jpg"},
+	{"id":95,"title":"多功能沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_05.jpg"},
+	{"id":96,"title":"两人小沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_06.jpg"},
+	{"id":97,"title":"懒人沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_07.jpg"},
+	{"id":98,"title":"简易个人沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_08.jpg"},
+	{"id":99,"title":"椅羽绒单人实木","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_09.jpg"},
+	{"id":100,"title":"阳台卧室小沙发","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_safa_10.jpg"},
+	{"id":101,"title":"欧客厅整装布沙发","add_time":"2013-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/category_safa_11.jpg"}
 ]

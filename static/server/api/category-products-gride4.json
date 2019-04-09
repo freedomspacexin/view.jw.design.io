@@ -1,8 +1,15 @@
 [		
-	{"id":14,"title":"飘窗-田园风格","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_window_01.jpg"},
-	{"id":15,"title":"飘窗-古典风格","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_02.jpg"},
-	{"id":16,"title":"飘窗-北欧风格","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_03.jpg"},
-	{"id":17,"title":"飘窗-功能型","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_04.jpg"},
-	{"id":18,"title":"飘窗-休闲型","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_window_05.jpg"},
-	{"id":19,"title":"飘窗-景观型","add_time":"2013-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/home_window_06.jpg"}
+	{"id":78,"title":"仿大理石磁砖","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_tile_01.jpg"},
+	{"id":79,"title":"简约地面砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_02.jpg"},
+	{"id":80,"title":"全抛釉瓷砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_03.jpg"},
+	{"id":81,"title":"欧式大理石","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_04.jpg"},
+	{"id":82,"title":"个性防滑地砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_05.jpg"},
+	{"id":83,"title":"全抛釉大理石","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_06.jpg"},
+	{"id":84,"title":"仿大理石磁砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_07.jpg"},
+	{"id":85,"title":"简约地面砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_08.jpg"},
+	{"id":86,"title":"全抛釉瓷砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_09.jpg"},
+	{"id":87,"title":"欧式大理石","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_10.jpg"},
+	{"id":88,"title":"个性防滑地砖","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_11.jpg"},
+	{"id":89,"title":"全抛釉大理石","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_tile_12.jpg"},
+	{"id":90,"title":"个性防滑地砖","add_time":"2013-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/category_tile_13.jpg"}
 ]
