@@ -1,4 +1,4 @@
 [		
-	{"id":7,"title":"复古-中式某样板房","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_restore01.jpg"},
-	{"id":8,"title":"复古-中式现代","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_restore02.jpg"}
+	{"id":37,"title":"复古-中式某样板房","add_time":"2011-04-16T03:50:28.00Z","designer":"曾庆先","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_restore01.jpg"},
+	{"id":38,"title":"复古-中式现代","add_time":"2012-04-16T03:50:28.00Z","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_restore02.jpg"}
 ]

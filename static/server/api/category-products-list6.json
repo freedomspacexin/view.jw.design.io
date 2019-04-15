@@ -1,5 +1,5 @@
 [		
-	{"id":20,"title":"温馨-温馨田园屋","add_time":"2011-04-16T03:50:28.00Z","sell_price":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_small_03.jpg"},
-	{"id":21,"title":"温馨-打造甜蜜二人世界","add_time":"2011-04-16T03:50:28.00Z","sell_price":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_small_04.jpg"},
-	{"id":22,"title":"温馨-阁楼 创造温馨居室","add_time":"2013-04-16T03:50:28.00Z","sell_price":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/category_small_05.jpg"}
+	{"id":20,"title":"温馨-温馨田园屋","add_time":"2011-04-16T03:50:28.00Z","designer":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_small_03.jpg"},
+	{"id":21,"title":"温馨-打造甜蜜二人世界","add_time":"2011-04-16T03:50:28.00Z","designer":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_small_04.jpg"},
+	{"id":22,"title":"温馨-阁楼 创造温馨居室","add_time":"2013-04-16T03:50:28.00Z","designer":"黄生","market_price":"找他设计","stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/category_small_05.jpg"}
 ]

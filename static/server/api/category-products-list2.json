@@ -1,6 +1,6 @@
 [		
-	{"id":9,"title":"现代-城市理想","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_modern_01.jpg"},
-	{"id":10,"title":"现代-大阪别墅住宅","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_modern_02.jpg"},
-	{"id":11,"title":"现代-台北国家世纪馆样板","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_modern_03.jpg"},
-	{"id":12,"title":"现代-台北涵碧園周公館","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_modern_04.jpg"}
+	{"id":9,"title":"现代-城市理想","add_time":"2011-04-16T03:50:28.00Z","designer":"欧阳先生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_modern_01.jpg"},
+	{"id":10,"title":"现代-大阪别墅住宅","add_time":"2012-04-16T03:50:28.00Z","designer":"杨女士","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_modern_02.jpg"},
+	{"id":11,"title":"现代-台北国家世纪馆样板","add_time":"2012-04-16T03:50:28.00Z","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_modern_03.jpg"},
+	{"id":12,"title":"现代-台北涵碧園周公館","add_time":"2012-04-16T03:50:28.00Z","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_modern_04.jpg"}
 ]

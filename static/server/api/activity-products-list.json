@@ -1,6 +1,6 @@
 [		
-	{"id":1,"title":"简约-ms designloft","add_time":"2011-04-16T03:50:28.00Z","down_time":3600,"discount":"7.5","designer":"梁生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_simplest01.jpg"},
-	{"id":6,"title":"现代-香港君颐峰","add_time":"2011-04-16T03:50:28.00Z","down_time":7210,"discount":"8.5","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_modern03.jpg"},
-	{"id":8,"title":"复古-中式现代","add_time":"2012-04-16T03:50:28.00Z","down_time":14405,"discount":"9.0","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_restore02.jpg"},
-	{"id":11,"title":"小户型-温馨舒适小小窝","add_time":"2013-04-16T03:50:28.00Z","down_time":28888,"discount":"9.5","designer":"梁生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/home_small_style03.jpg"}
+	{"id":29,"title":"简约-ms designloft","add_time":"2011-04-16T03:50:28.00Z","down_time":3600,"discount":"7.5","designer":"梁生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_simplest01.jpg"},
+	{"id":34,"title":"现代-香港君颐峰","add_time":"2011-04-16T03:50:28.00Z","down_time":7210,"discount":"8.5","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/home_modern03.jpg"},
+	{"id":38,"title":"复古-中式现代","add_time":"2012-04-16T03:50:28.00Z","down_time":14405,"discount":"9.0","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/home_restore02.jpg"},
+	{"id":41,"title":"小户型-温馨舒适小小窝","add_time":"2013-04-16T03:50:28.00Z","down_time":28888,"discount":"9.5","designer":"梁生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX3","click":3,"img_url":"/static/server/images/home_small_style03.jpg"}
 ]

@@ -1,10 +1,10 @@
 [		
-	{"id":1,"title":"简约-台北华景园住家案","add_time":"2011-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_simplest_01.jpg"},
-	{"id":2,"title":"简约-国外某半山别墅","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_02.jpg"},
-	{"id":3,"title":"简约-国外海滨别墅","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_03.jpg"},
-	{"id":4,"title":"简约-上海美国村别墅","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_04.jpg"},
-	{"id":5,"title":"简约-城市理想","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_05.jpg"},
-	{"id":6,"title":"简约-台北远雄首府样品屋","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_06.jpg"},
-	{"id":7,"title":"简约-台湾光復許宅","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_07.jpg"},
-	{"id":8,"title":"简约-浙江清韵雅舍","add_time":"2012-04-16T03:50:28.00Z","sell_price":1999,"market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_08.jpg"}
+	{"id":1,"title":"简约-台北华景园住家案","add_time":"2011-04-16T03:50:28.00Z","designer":"杨生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX1","click":1,"img_url":"/static/server/images/category_simplest_01.jpg"},
+	{"id":2,"title":"简约-国外某半山别墅","add_time":"2012-04-16T03:50:28.00Z","designer":"黄先生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_02.jpg"},
+	{"id":3,"title":"简约-国外海滨别墅","add_time":"2012-04-16T03:50:28.00Z","designer":"欧阳先生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_03.jpg"},
+	{"id":4,"title":"简约-上海美国村别墅","add_time":"2012-04-16T03:50:28.00Z","designer":"杨女士","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_04.jpg"},
+	{"id":5,"title":"简约-城市理想","add_time":"2012-04-16T03:50:28.00Z","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_05.jpg"},
+	{"id":6,"title":"简约-台北远雄首府样品屋","add_time":"2012-04-16T03:50:28.00Z","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_06.jpg"},
+	{"id":7,"title":"简约-台湾光復許宅","add_time":"2012-04-16T03:50:28.00Z","designer":"曾生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_07.jpg"},
+	{"id":8,"title":"简约-浙江清韵雅舍","add_time":"2012-04-16T03:50:28.00Z","designer":"黄生","market_price":2999,"stock_quantity":60,"zhaiyao":"XXX2","click":2,"img_url":"/static/server/images/category_simplest_08.jpg"}
 ]
